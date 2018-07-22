@@ -44,7 +44,7 @@
 
 ## 后端开发
 
-### PHP（4 年以上）
+### PHP
 
 - SAPI：php-fpm、php-cli
 - CLI：composer、wp-cli、deployer、symfony/console
