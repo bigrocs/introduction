@@ -1,3 +1,9 @@
+#个人简介
+
+## 姓名：张鹏
+## QQ: 532388887
+## Email: bigrocs@qq.com
+
 # Laravel 爱好者，当前公司框架推广者
 
 - 精通 PHP 开发，熟悉常用设计模式与框架，曾自己维护框架并完成多个线上项目;有前端开发能力，有 HTML，CSS，Vue 的大量使用实践经验; ;
@@ -52,7 +58,7 @@
 - 微框架：Lumen
 - 测试：phpunit
 - 调试：xdebug、php-kint、php-debugbar、php-console
-- 数据库：PDO & MySQLi、SQL Server、、PostgreSQL、OceanBase
+- 数据库：PDO & MySQLi、SQL Server、PostgreSQL、OceanBase
 - 缓存：Memcached、Redis
 - 后端框架：Laravel*（精通各种常用包）、ThinkPHP
 - 后端常用包：Symfony(各种包)、Phpunit、GuzzleHttp、GraphQL 等等
