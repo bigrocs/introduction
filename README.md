@@ -15,21 +15,26 @@
 
 # 技能清单
 
-- 以下为日常较多使用的开源库，加粗为精通，带星号为目前重点学习对象。
+- 以下为日常较多使用的开源库，带星号*为精通，带号井号#目前重点学习对象。
 
 ## 运维
 
 ### 基础
 - 基础服务：LAMP、LNMP、FTP、DNS、EMAIL、DHCP
 - 网络：TCP/IP 协议、tcpdump 抓包
-- 安全：防火墙配置 iptables
-- linux 基础：linux 基础操作命令、linux 内置编辑器 Yi、linux 操作系统（Centos、Debian、Ubuntu）
+- 安全：防火墙配置 iptables*、DDOS、VPN
+- linux 基础：linux 基础操作命令、linux 内置编辑器 Yi、linux 操作系统（Centos*、Debian、Ubuntu）
 ### 云计算技能
 #### 基础架构
-##### 计算：
-- 负载均衡：HAProxy、Nginx、AWS ELB
-- 自动扩展：AWS Autoscaling、阿里云 ECS、腾讯云 CVM
-
+- 计算：负载均衡（HAProxy*、Nginx*、AWS ELB）、自动扩展：（AWS Autoscaling、阿里云 ECS*、腾讯云 CVM*）
+- 虚拟化 Hypervisor：Xen*、KVM、Hyper-v*、本地开发虚拟化（VMware、VirtualBox、Vagrant）
+- 容器：Docker*、docker-compose*
+- 网络：TCP/IP、VLANs、DNS/CDN、HTTP/HTTPS
+- 存储：网络存储、对象存储*、块存储、文件系统、NFS v4、阿里云 OSS*、阿里云 NAS*、阿里云归档存储、腾讯云等相关服务
+- 集群：Swarm*、Kubernetes*
+### 数据管理
+- SQL：Mysql*、SQL Server*、PostgreSQL、OceanBase#、Mycat（中间件）*
+- NoSQL：Redis*、MongoDB、Memcache*
 
 
 ### Docker（2 年）
